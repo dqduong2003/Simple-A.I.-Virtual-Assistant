@@ -1,5 +1,5 @@
-# Simple A.I. Virtual Assistant
-This is a simple console A.I. I created with Python.
+# Simple A.I. Voice Virtual Assistant
+This is a simple console A.I. I created with Python. It can listen to your voice and answer your questions.
  
 ## Screenshot
 ![Screenshot](screenshots/capture1.jpg)
