@@ -1,2 +1,17 @@
 # Simple A.I. Virtual Assistant
- A Virtual Assistant created with Python
+This is a simple console A.I. I created with Python.
+ 
+## Screenshot
+![screenshots](capture1.jpg)
+![screenshots](capture2.jpg)
+
+### What the virtual assistant can do:
+* Hello
+* Today'date
+* Weather in any city
+* Time in any city 
+* Tell a joke/funny line
+* Open any online application name (e.g., Facebook, Twitter, YouTube, etc)
+* Search anything the user needs on Google
+* Link to Wikipedia and gives information about what the user wants to know (e.g., "Tell me about Donald Trump")
+* Thank you or Bye to automatically quit
