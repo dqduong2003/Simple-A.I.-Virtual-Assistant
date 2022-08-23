@@ -2,8 +2,8 @@
 This is a simple console A.I. I created with Python.
  
 ## Screenshot
-![screenshots](capture1.jpg)
-![screenshots](capture2.jpg)
+![Screenshot](screenshots/capture1.jpg)
+![Screenshot](screenshots/capture2.jpg)
 
 ### What the virtual assistant can do:
 * Hello
