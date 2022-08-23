@@ -10,7 +10,7 @@ This is a simple console A.I. I created with Python. It can listen to your voice
 * Today'date
 * Weather in any city
 * Time in any city 
-* Tell a joke/funny line
+* Tell a random joke/funny line
 * Open any online application name (e.g., Facebook, Twitter, YouTube, etc)
 * Search anything the user needs on Google
 * Link to Wikipedia and gives information about what the user wants to know (e.g., "Tell me about Donald Trump")
